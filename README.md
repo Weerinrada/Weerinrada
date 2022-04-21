@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistical model, Statistical learning, Machine learning and data science.
 - 🌱 I’m currently learning about Machine learning and data science
 - 💞️ I’m looking to collaborate on data analysis.
-- 📫  Please e-mail to me at weerinradaj@gmail.com if you have any ideas about data analysis.
+- 📫  Please e-mail to me at weerinradaj@gmail.com if you wanna share any ideas about data analysis.
 
 <!---
 Weerinrada/Weerinrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
